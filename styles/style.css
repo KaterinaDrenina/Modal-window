@@ -1,0 +1,21 @@
+@import url(./reset.css);
+@import url(../fonts/Montserrat/stylesheet.css);
+@import url(./dialogform.css);
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.layer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(50, 50, 100, .7);
+}
+
+.lorem {
+    color:#ece9e900;
+}
+
